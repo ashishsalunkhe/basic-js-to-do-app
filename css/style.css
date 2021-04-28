@@ -1,0 +1,46 @@
+
+.page-header h1{
+
+
+    font-family: "Century Schoolbook L";
+    font-size: 55px;
+    font-weight: bold;
+    border-bottom: solid 3px black;
+  
+
+    padding: 10px;
+}
+
+
+
+.todo-done {
+    text-decoration: line-through;
+    color: #999;
+    font-family:"monotype corasavia" ;
+    font-size: 85%;
+}
+
+#To-Do-List > li:last-child > .fa-arrow-circle-o-down{
+    visibility: hidden;
+    pointer-events: none;
+}
+#To-Do-List > li:first-child > .fa-arrow-circle-o-up{
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.delete {
+    color: #d9534f;
+}
+
+.icn-move {
+    color: #0275d8;
+}
+
+#To-Do-List
+{
+    font-size: 25px;
+    padding:10px;
+    align-self: center;
+}
+

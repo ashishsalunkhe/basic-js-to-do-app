@@ -1,2 +1,5 @@
-# basic-js-to-do-app
-Developed as a part of IIT Bombay Web Dev Challenge
+## To-Do-List-WebApp
+
+Link to the website
+
+https://unsorted-array.github.io/To-Do-List-WebApp/
